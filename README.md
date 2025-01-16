@@ -1,2 +1,2 @@
 # micro-ceramic2
-这是第二组图片（后10组加其他数据）因文件太大，所以分两次上传
+This is the second set of images (the last 10 plus other data) uploaded in two batches because the files were too large. The last folder, “others,” can be ignored.
